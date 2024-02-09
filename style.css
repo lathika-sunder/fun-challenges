@@ -28,4 +28,7 @@ img{
         display: flex;
         flex-direction: column;
     }
+    .result-container h4{
+        padding: 2vh;
+    }
 }
