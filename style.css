@@ -19,6 +19,9 @@ img{
     align-items: center;
     justify-content: center;
 }
+.result-container h4{
+    padding: 5vh;
+}
 @media only screen and (max-width: 600px) {
     .image-box {
       
